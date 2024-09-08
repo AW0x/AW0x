@@ -5,8 +5,8 @@ What are you looking for in this commit-only account?
 ---
 
 <div align="center">
-<a href="https://www.pixiv.net/en/artworks/108233069">
-    <img src="assets/TendouAlice.png" width="25%" align="right" />
+<a href="https://www.pixiv.net/en/artworks/121154456">
+    <img src="assets/SangonomiyaKokomi.png" width="25%" align="right" />
 </a>
 <img src="https://readme-typing-svg.demolab.com?font=Inconsolata&weight=500&size=50&duration=4000&pause=300&color=A7A459&center=true&vCenter=true&multiline=true&repeat=false&random=false&width=1300&height=140&lines=Hi,+greetings+to+all+from+me.+;I'm+WasiVii+a+tech+and+crypto+entusiast" width="70%" />
 <br><br>
@@ -25,6 +25,7 @@ What are you looking for in this commit-only account?
 ## Technology
 
 ### Tools
+
 <p>
 <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/git/git-original.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
 <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/nodejs/nodejs-original.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
@@ -33,6 +34,7 @@ What are you looking for in this commit-only account?
 </p>
 
 ### Stack
+
 <p>
 <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
@@ -48,7 +50,7 @@ What are you looking for in this commit-only account?
 ## Statistics
 
 | <a href="https://git.io/streak-stats"><img align="center" src="https://streak-stats.demolab.com?user=AW0x&theme=holi-theme" alt="AW0x's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?&username=AW0x&layout=compact&show_icons=true&theme=react&langs_count=8" /></a> |
-| ------------- | ------------- |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------ | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 
 <!--
 **AW0x/AW0x** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
