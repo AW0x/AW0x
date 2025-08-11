@@ -283,7 +283,7 @@ What are you looking for in this commit-only account?
 </p>
 
 
-<h3 align="left">Statistics:</h3>
+<h3 align="left">Perfecto:</h3>
 
 | <a href="https://git.io/streak-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=aw0x&show_icons=true&locale=en" alt="AW0x's github stats" /></a> | <a href=""><img align="center" src="https://streak-stats.demolab.com?user=AW0x" /></a> |
 | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------- |
