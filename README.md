@@ -1,53 +1,18 @@
-<div align="center">
-What are you looking for in this commit-only account?
-</div>
+# AW0x
+![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
----
+<!-- About Me -->
+<h2 id="about-the-project"> :pencil: About Me</h2>
 
-<div align="center">
-<a href="https://www.pixiv.net/en/artworks/121154456">
-    <img src="assets/SangonomiyaKokomi.png" width="25%" align="right" />
-</a>
-<img src="https://readme-typing-svg.demolab.com?font=Inconsolata&weight=500&size=50&duration=4000&pause=300&color=A7A459&center=true&vCenter=true&multiline=true&repeat=false&random=false&width=1300&height=140&lines=Hi,+greetings+to+all+from+me.+;I'm+AW0x+a+tech+and+crypto+entusiast" width="70%" />
-<br><br>
-<pre>
-    💼 Frontend Dev • Backend Dev • Full Stack Dev • Web3
-    🎮 Music • Games • Code 
-</pre>
-<br><br>
-<img src="assets/kyubey.gif" height="40" />
-<br><br><br>
-    
-[![](https://img.shields.io/badge/website-0a66c2)](https://wasivii.me)
-[![](https://img.shields.io/badge/osu!-ff66ab)](https://osu.ppy.sh/users/35706188)
-</div>
-
-<!--
-## Technology
-
-### Tools
-
-<p>
-<img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/git/git-original.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
-<img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/nodejs/nodejs-original.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
-<img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/vscode/vscode-original.svg" title="Visual Studio Code" alt="Visual Studio Code" width="40" height="40"/>&nbsp;
-<img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/figma/figma-original.svg" title="Figma" alt="Figma" width="40" height="40"/>&nbsp;
+<p align="justify"> 
+  What are you looking for in this account? <p align="left"> <img src="https://komarev.com/ghpvc/?username=aw0x&label=Profile%20views&color=0e75b6&style=flat" alt="aw0x" /> </p>
 </p>
 
-### Stack
 
+![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
--->
-
-<br/><br/>
-
-# About Me
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=aw0x&label=Profile%20views&color=0e75b6&style=flat" alt="aw0x" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aw0x" alt="aw0x" /></a> </p>
-
-<h3 align="left">Languages and Tools:</h3>
+<!-- Activities -->
+<h2 id="prerequisites"> :fork_and_knife: Languages and Tools</h2>
 
 <p align="left">
   <!-- TOOLS -->
@@ -282,12 +247,54 @@ What are you looking for in this commit-only account?
   </a>
 </p>
 
+![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
-<h3 align="left">Perfecto:</h3>
+<!-- :paw_prints:-->
+<!-- Social Media Structure -->
+<h2 id="folder-structure"> :cactus: Experience</h2>
 
-| <a href="https://git.io/streak-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=aw0x&show_icons=true&locale=en" alt="AW0x's github stats" /></a> | <a href=""><img align="center" src="https://streak-stats.demolab.com?user=AW0x" /></a> |
-| ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------- |
+    My Experience
+    .
+    │
+    ├── Frontend
+    ├── Backend
+    ├── Full Stack
+    ├── Wordpress
+    ├── Web3
+    ├── Bot
+    │
 
-<p align="left">
+![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
+
+<div align="center">
+<br><br>
+<img src="assets/kyubey.gif" height="40" />
+<br><br><br>
+    
+[![](https://img.shields.io/badge/website-0a66c2)](https://aw0x.app)
+[![](https://img.shields.io/badge/osu!-ff66ab)](https://osu.ppy.sh/users/35706188)
+</div>
+
+![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
+
+
+
+<!--
+## Technology
+
+### Tools
+
+<p>
+<img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/git/git-original.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/nodejs/nodejs-original.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/vscode/vscode-original.svg" title="Visual Studio Code" alt="Visual Studio Code" width="40" height="40"/>&nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/figma/figma-original.svg" title="Figma" alt="Figma" width="40" height="40"/>&nbsp;
 </p>
+
+### Stack
+
+
+-->
+
+
 
