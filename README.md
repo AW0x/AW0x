@@ -8,6 +8,10 @@
   What are you looking for in this account? <p align="left"> <img src="https://komarev.com/ghpvc/?username=aw0x&label=Profile%20views&color=0e75b6&style=flat" alt="aw0x" /> </p>
 </p>
 
+<p align="justify">
+ Closed-Source Products That Are Free to Use
+</p>
+
 
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
