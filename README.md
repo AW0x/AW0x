@@ -15,7 +15,7 @@
 ## 🎯 Current Focus
 
 ```text
-💹 Day job       Make Quant Trading Platform
+💹 Day job       Make Quant ... Platform
 🔭 Side project  Content Creator, ...
 💬 Ask me about  ..., AI Agents, Automation
 ⚡ Fun fact      ...
