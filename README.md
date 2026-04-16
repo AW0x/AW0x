@@ -12,6 +12,14 @@
  Closed-Source Products That Are Free to Use
 </p>
 
+## 🎯 Current Focus
+
+```text
+💹 Day job       Make Quant Trading Platform
+🔭 Side project  Content Creator, ...
+💬 Ask me about  ..., AI Agents, Automation
+⚡ Fun fact      ...
+```
 
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
