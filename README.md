@@ -28,6 +28,8 @@ My work sits at the intersection of **quantitative finance**, **AI-driven automa
 
 Whether it's backtesting a signal engine, wiring up a multi-step n8n workflow, or shipping a production-grade web app, I operate with a builder's bias: ship fast, iterate smart, and let systems do the heavy lifting.
 
+ — I build closed-source products that are free to use.
+
 > *"Automation isn't laziness — it's leverage."*
 
 ---
