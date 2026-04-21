@@ -143,6 +143,11 @@ The goal: systems that generate alpha, content, and leverage — autonomously.
 *Built with systems thinking. Powered by curiosity.*
 
 </div>
+<div align="center">
+
+<img src="assets/kyubey.gif" height="40" />
+
+</div>
 
 
 
