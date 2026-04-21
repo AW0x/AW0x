@@ -1,312 +1,151 @@
-# AW0x
-![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
+<div align="center">
 
-<!-- About Me -->
-<h2 id="about-the-project"> :pencil: About Me</h2>
-
-<p align="justify"> 
-  What are you looking for in this account? <p align="left"> <img src="https://komarev.com/ghpvc/?username=aw0x&label=Profile%20views&color=0e75b6&style=flat" alt="aw0x" /> </p>
-</p>
-
-<p align="justify">
- Closed-Source Products That Are Free to Use
-</p>
-
-## 🎯 Current Focus
-
-```text
-💹 Day job       ...
-🔭 Side project  Content Creator, ...
-💬 Ask me about  ..., AI Agents, Automation
-⚡ Fun fact      ...
+```
+ █████╗ ██╗    ██╗ ██████╗ ██╗  ██╗
+██╔══██╗██║    ██║██╔═████╗╚██╗██╔╝
+███████║██║ █╗ ██║██║██╔██║ ╚███╔╝ 
+██╔══██║██║███╗██║████╔╝██║ ██╔██╗ 
+██║  ██║╚███╔███╔╝╚██████╔╝██╔╝ ██╗
+╚═╝  ╚═╝ ╚══╝╚══╝  ╚═════╝ ╚═╝  ╚═╝
 ```
 
-![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
+### **Builder · Quant · Operator**
+*I don't just write code — I build systems that think, trade, and scale.*
 
-<!-- Activities -->
-<h2 id="prerequisites"> :fork_and_knife: Languages and Tools</h2>
+[![Profile Views](https://komarev.com/ghpvc/?username=aw0x&label=Profile%20Views&color=0e75b6&style=flat)](https://github.com/AW0x)
+[![Website](https://img.shields.io/badge/website-0a66c2?style=flat&logo=google-chrome&logoColor=white)](https://aw0x.app)
+[![GitHub](https://img.shields.io/badge/GitHub-AW0x-181717?style=flat&logo=github)](https://github.com/AW0x)
 
-<p align="left">
-  <!-- TOOLS -->
-  <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer">
-    <img
-      src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg"
-      alt="bash"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img
-      src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"
-      alt="git"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://postman.com" target="_blank" rel="noreferrer">
-    <img
-      src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg"
-      alt="postman"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
-    <img
-      src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg"
-      alt="figma"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg"
-      alt="linux"
-      width="40"
-      height="40"
-    />
-  </a>
-  <!-- Interface -->
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"
-      alt="css3"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
-    <img
-      src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg"
-      alt="tailwind"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg"
-      alt="bootstrap"
-      width="40"
-      height="40"
-    />
-  </a>
-  <!-- Database -->
-  <a href="https://mariadb.org/" target="_blank" rel="noreferrer">
-    <img
-      src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg"
-      alt="mariadb"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg"
-      alt="mongodb"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"
-      alt="mysql"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg"
-      alt="postgresql"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a
-    href="https://www.cockroachlabs.com/product/cockroachdb/"
-    target="_blank"
-    rel="noreferrer"
-  >
-    <img
-      src="https://cdn.worldvectorlogo.com/logos/cockroachdb.svg"
-      alt="cockroachdb"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
-    <img
-      src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg"
-      alt="firebase"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"
-      alt="html5"
-      width="40"
-      height="40"
-    />
-  </a>
-  <!-- Programming -->
-  <a
-    href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"
-    target="_blank"
-    rel="noreferrer"
-  >
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
-      alt="javascript"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"
-      alt="typescript"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://www.php.net" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg"
-      alt="php"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"
-      alt="python"
-      width="40"
-      height="40"
-    />
-  </a>
-  <!-- Backend -->
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg"
-      alt="nodejs"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://expressjs.com" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg"
-      alt="express"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"
-      alt="react"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://redux.js.org" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg"
-      alt="redux"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
-    <img
-      src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg"
-      alt="nextjs"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://laravel.com/" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-original.svg"
-      alt="laravel"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://graphql.org" target="_blank" rel="noreferrer">
-    <img
-      src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg"
-      alt="graphql"
-      width="40"
-      height="40"
-    />
-  </a>
-  <!-- Plugin 3rd Party -->
-  <a href="https://www.framer.com/" target="_blank" rel="noreferrer">
-    <img
-      src="https://www.vectorlogo.zone/logos/framer/framer-icon.svg"
-      alt="framer"
-      width="40"
-      height="40"
-    />
-  </a>
-</p>
-
-![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
-
-<!-- :paw_prints:-->
-<!-- Social Media Structure -->
-<h2 id="folder-structure"> :cactus: Experience</h2>
-
-    My Experience
-    .
-    │
-    ├── Frontend
-    ├── Backend
-    ├── Full Stack
-    ├── Wordpress
-    ├── Web3
-    ├── Bot
-    │
-
-![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
-
-<div align="center">
-<br><br>
-<img src="assets/kyubey.gif" height="40" />
-<br><br><br>
-    
-[![](https://img.shields.io/badge/website-0a66c2)](https://aw0x.app)
-[![](https://img.shields.io/badge/osu!-ff66ab)](https://osu.ppy.sh/users/35706188)
 </div>
 
-![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
+---
 
+## 🚀 About Me
 
+I'm **Abdul (AW0x)** — a finance researcher, automation architect, and full-stack builder based in [///].
+
+My work sits at the intersection of **quantitative finance**, **AI-driven automation**, and **scalable system design**. I don't build things that just work — I build things that *keep working*, across markets, platforms, and pipelines.
+
+Whether it's backtesting a signal engine, wiring up a multi-step n8n workflow, or shipping a production-grade web app, I operate with a builder's bias: ship fast, iterate smart, and let systems do the heavy lifting.
+
+> *"Automation isn't laziness — it's leverage."*
+
+---
+
+## ⚡ Current Focus
+
+Right now I'm deep in three tracks — and they all feed each other:
+
+- 🤖 **AI + Automation Infrastructure** — building modular, agent-driven workflows that replace repetitive human decisions with reliable logic
+- 📈 **Algorithmic Trading Systems** — designing signal engines, backtesting frameworks, and live execution pipelines across crypto and traditional markets
+- 🎬 **Content Automation Pipelines** — turning raw long-form video into multi-platform short-form content at scale, with zero manual effort
+
+The goal: systems that generate alpha, content, and leverage — autonomously.
+
+---
+
+## 🧠 Capabilities
+
+### 📊 Finance Research
+> Quantitative edge, not gut feeling.
+
+- Market research & regime analysis
+- Strategy backtesting & performance attribution
+- Quantitative modeling (statistical & ML-based)
+- Risk management frameworks & drawdown control
+- Algorithmic trading logic & signal generation
+
+---
+
+### ⚙️ Automation Systems
+> If it's repetitive, it can be automated. If it can be automated, it should be.
+
+- **n8n** visual workflow orchestration (complex multi-step flows)
+- API & MCP server integrations
+- CRM pipeline automation
+- Real-time monitoring & alerting systems
+- Process orchestration across tools and platforms
+
+---
+
+### 📱 Social Media Systems
+> Growth isn't accidental — it's engineered.
+
+- Content strategy & distribution frameworks
+- Automated publishing & scheduling
+- Growth analytics & performance tracking
+- Cross-platform engagement systems
+
+---
+
+### 🎬 Short-Form Content Engine
+> Long videos in. Viral clips out.
+
+- Long-form → short-form clip extraction
+- Auto-captioning & subtitle generation
+- Hook optimization & retention engineering
+- Multi-platform format adaptation (Reels, Shorts, TikTok)
+- Batch editing workflows at scale
+
+---
+
+### 🌐 Web Development
+> Clean code. Sharp UI. Shipped fast.
+
+- Landing pages & conversion-focused frontends
+- Full-stack web applications (Next.js, React, Node.js)
+- Backend APIs & service architecture
+- Database design (SQL & NoSQL)
+- Performance optimization & deployment
+
+---
+
+### 🤖 Bot Development
+> Bots that do the work you shouldn't be doing manually.
+
+- Telegram bots (command-driven & event-based)
+- Discord bots (moderation, automation, integrations)
+- AI-powered conversational agents
+- Custom automation logic & webhook handlers
+
+---
 
 <!--
-## Technology
+## 📌 Featured Projects
 
-### Tools
+| Project | Description | Stack |
+|--------|-------------|-------|
+| 🔁 **Signal Engine** | Modular backtesting + live signal framework for crypto & equity markets | Python, PostgreSQL |
+| 🎬 **ClipFlow** | Automated pipeline: long video → captioned short clips → multi-platform upload | Python, FFmpeg, n8n |
+| 🤖 **AutoCRM** | CRM automation system with lead scoring, follow-up sequences & Telegram alerts | n8n, Webhooks, API |
+| 🌐 **Portfolio OS** | Personal site + project showcase with dynamic content and analytics | Next.js, Tailwind |
+| 📊 **QuantDash** | Strategy performance dashboard with live metrics, drawdown charts & logs | React, Python, SQL |
 
-<p>
-<img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/git/git-original.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
-<img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/nodejs/nodejs-original.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
-<img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/vscode/vscode-original.svg" title="Visual Studio Code" alt="Visual Studio Code" width="40" height="40"/>&nbsp;
-<img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/figma/figma-original.svg" title="Figma" alt="Figma" width="40" height="40"/>&nbsp;
-</p>
-
-### Stack
-
-
+---
 -->
+
+## 📫 Connect
+
+<div align="center">
+
+[![Website](https://img.shields.io/badge/🌐%20aw0x.app-0a66c2?style=for-the-badge)](https://aw0x.app)
+[![GitHub](https://img.shields.io/badge/GitHub-AW0x-181717?style=for-the-badge&logo=github)](https://github.com/AW0x)
+
+*Open to collaborations, freelance projects, and ambitious ideas.*
+*If you're building something serious — let's talk.*
+
+</div>
+
+---
+
+<div align="center">
+
+*Built with systems thinking. Powered by curiosity.*
+
+</div>
+
+
+
 
 
 
