@@ -17,7 +17,7 @@ jobs:
 
       - name: Update date
         run: |
-          echo "## Update on $(date -u +'%Y-%m-%d %H:%M:%S UTC')" >> lazy_commit.md
+          echo "## Update on $(date -u +'%Y-%m-%d %H:%M:%S UTC')" > lazy_commit.md
           echo "" >> lazy_commit.md
 
       - name: Check for changes
