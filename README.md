@@ -146,7 +146,7 @@ The goal: systems that generate alpha, content, and leverage — autonomously.
 
 </div>
 <p align="center">
-  <img src="https://cdn.donmai.us/original/92/29/__baobhan_sith_and_morgan_le_fay_fate_and_1_more_drawn_by_keykey117117__9229ca6b1086b6da14f55ce0db1b2701.png" width="200" height="200" style="border-radius: 50%; object-fit: cover; border: 4px solid #e5e7eb;">
+  <img src="assets/baobhan_sith.png" width="200" height="200" style="border-radius: 50%; object-fit: cover; border: 4px solid #e5e7eb;">
 </p>
 <div align="center">
 
