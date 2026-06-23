@@ -145,11 +145,12 @@ The goal: systems that generate alpha, content, and leverage — autonomously.
 *Built with systems thinking. Powered by curiosity.*
 
 </div>
-<a href="https://www.pixiv.net/en/artworks/133938680">
 <p align="center">
+<a href="https://www.pixiv.net/en/artworks/133938680">
   <img src="assets/baobhan_sith.png" width="200" height="200" style="border-radius: 100%; object-fit: cover; border: 4px solid #e5e7eb;">
-</p>
 </a>
+</p>
+
  
 <div align="center">
 
